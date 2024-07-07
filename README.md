@@ -4,6 +4,7 @@ Welcome to the Bayern Travel Guide Agent, a web application that suggests the be
 
 Collaborators:
 Azamat Galidenov https://github.com/azamatgalidenov/
+
 kazanova777 https://github.com/kazanova777
 
 ![Bayern Travel Guide](travel_bot.png)
